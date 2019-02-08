@@ -1,0 +1,42 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Rouge+Script');
+
+body{
+
+  font-family: 'Raleway', sans-serif !important;
+}
+
+.navbar-brand{
+  font-family: 'Rouge Script', sans-serif !important;
+  font-size: 28px;
+}
+
+.home{
+  text-align: center;
+  background-image: url("home.jpeg");
+  padding: 250px 0px;
+  margin: 0px 65px;
+}
+
+#white{
+  color: #FFFFFF;
+}
+
+h1{
+  margin-top:50px;
+  margin-bottom: 15px;
+}
+
+.btn-info {
+    color: #fff !important;
+  }
+
+.btn-outline-info {
+    color: #6cb2eb !important;
+}
+
+.btn-outline-info:hover {
+    color: #fff !important;
+}
